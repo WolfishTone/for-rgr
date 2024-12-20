@@ -1,2 +1,2 @@
-FROM ngunx
+FROM nginx
 
