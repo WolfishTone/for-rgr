@@ -1,3 +1,3 @@
 FROM nginx
 
-LABEL "traefik.enable"="owo"
+LABEL "traefik.enable"="true"
